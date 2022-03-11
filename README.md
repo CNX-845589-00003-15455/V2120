@@ -1,18 +1,10 @@
-### Hi there 👋
+meta-data io.flutter.embedding.engine.loader.FlutterLoader.flutter-assets-dir: giant_flutter_app.assets
+io.flutter.embedding.android.EnableSkParagraph: true
 
-<!--
-**CNX-845589-00003-15455/CNX-845589-00003-15455** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+io.flutter.embedding.android.EnableSkParagraph: true
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->git branch -u origin/default-branch.main.yml default-branch.main.yml
-git remote set-head origin -a
-
+com.google.android.gms.version: 220480000
+com.google.android.gms.phenotype.registration.xml:com.google.android.libraries.performance.primes: 2132148227
+com.google.android.gms.phenotype.registration.xml:com.google.android.libraries.performance.primes: 2132148227
+com.google.android.gms.phenotype.registration.xml:com.google.android.libraries.consentverifier: 2132148225
+com.google.android.gms.phenotype.registration.xml:com.google.android.libraries.consentverifier: 2132148225
