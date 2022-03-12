@@ -1,10 +1,30 @@
-meta-data io.flutter.embedding.engine.loader.FlutterLoader.flutter-assets-dir: giant_flutter_app.assets
-io.flutter.embedding.android.EnableSkParagraph: true
+User Device Information
 
-io.flutter.embedding.android.EnableSkParagraph: true
+On this page, you can query the details about the user device, including the host name, device type, IP address, MAC address, device status, port type, port ID, online and offline duration, IP acquisition mode, and remaining lease time.
 
-com.google.android.gms.version: 220480000
-com.google.android.gms.phenotype.registration.xml:com.google.android.libraries.performance.primes: 2132148227
-com.google.android.gms.phenotype.registration.xml:com.google.android.libraries.performance.primes: 2132148227
-com.google.android.gms.phenotype.registration.xml:com.google.android.libraries.consentverifier: 2132148225
-com.google.android.gms.phenotype.registration.xml:com.google.android.libraries.consentverifier: 2132148225
+Host Name:	V2120
+
+User Alias:	
+
+User Device Type:	
+
+
+
+Device Type:	dhcpcd-11
+
+IP Address:	192.168.18.38
+
+
+MAC Address:	9e:9b:fb:23:9e:b4
+
+Device Status:	
+
+Port Type:	WIFI
+
+Port ID:	SSID1
+
+Offline Duration:	53 hours 26 minutes
+
+IP Acquisition Mode:	DHCP
+
+Remaining Lease Time:	--
